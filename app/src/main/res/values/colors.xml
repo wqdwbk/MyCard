@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffbb33</color>
+    <color name="colorPrimaryDark">#4c4c4c</color>
+    <color name="colorAccent">#352f53</color>
+    <color name="colorCardItem">#9cdbe7</color>
+    <color name="colorButton">#051646</color>
+    <color name="colorCheckButton">#061121</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#0000FF</color>
+
+    <!--Status bar color-->
+    <color name="statusColor">#ff0000</color>
+    <!-- toolBar color -->
+    <color name="toolBarColor">#ff9500</color>
+    <!--EditText,RadioButton,CheckBox color-->
+    <color name="editColor">#640312</color>
+    <!--Window color-->
+    <color name="widowColor">#ffffff</color>
+
+</resources>
